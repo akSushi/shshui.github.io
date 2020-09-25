@@ -8,7 +8,7 @@
       "sizes": "240x240"
     }
   ],
-  "start_url": "https://aksushi.github.io/sushui.github.io/",
+  "start_url": "/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
